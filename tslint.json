@@ -12,7 +12,7 @@
     "object-literal-sort-keys": [false],
     "curly": [false],
     "no-console": [false],
-    "max-line-length": [false],
+    "max-line-length": [false]
   },
   "rulesDirectory": []
 }
